@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayan
 
-<!--
-**developersayandutta/developersayandutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Entrepreneur | Full-Stack Developer | Open-Source Advocate**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building scalable, community-driven products — from cloud-native applications to decentralized technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building:  
+  - **Google Cloud Arcade Badge Counter** – A gamified dashboard for tracking event engagement using Google OAuth, MySQL, and real-time UI.
+  - **GenBit (GBT)** – A feature-rich ERC20 token with tax mechanics, liquidity management, governance voting, and built-in order book trading.
+  - **Secure Auth System** – A Node.js-based authentication solution with email verification, JWT, follow/unfollow, password reset, and more.
+
+- 🌱 Exploring:  
+  - Cloud infrastructure on **Google Cloud Platform**  
+  - Smart contracts with **Solidity** and **Web3.js**  
+  - DevOps and CI/CD workflows
+
+- 🤝 Open to collaborating on innovative open-source projects.
+
+---
+
+## 🛠 Tech Stack
+
+```bash
+Languages:   JavaScript, TypeScript, Solidity
+Backend:     Node.js, Express, MySQL, MongoDB, JWT
+Frontend:    React, Tailwind CSS, EJS
+Blockchain:  Solidity, Web3.js, Ethers.js
+Cloud:       Google Cloud, Firebase
+Tools:       Git, Postman, Docker (exploring), VS Code
+```
